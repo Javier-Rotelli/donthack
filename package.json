@@ -1,0 +1,15 @@
+{
+  "name": "donthackme",
+  "version": "0.0.1",
+  "description": "a simple express middleware to troll script kiddies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Rotelli",
+  "repository": "https://github.com/Javier-Rotelli/donthack",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.6.8"
+  }
+}
